@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BigTimeJeff/static/css/main.112d6376.css",
+    "main.js": "/BigTimeJeff/static/js/main.1e583f1c.js",
+    "static/js/488.e5f883fa.chunk.js": "/BigTimeJeff/static/js/488.e5f883fa.chunk.js",
+    "static/media/NewYorkCity.webp": "/BigTimeJeff/static/media/NewYorkCity.bd8ec9e8da720f8b4fc2.webp",
+    "static/media/DoctorStrangePortal.gif": "/BigTimeJeff/static/media/DoctorStrangePortal.2d7182a16a38127fc497.gif",
+    "static/media/JeffTheShark.webp": "/BigTimeJeff/static/media/JeffTheShark.65ed6e994be833f8bcf1.webp",
+    "static/media/MarvelButton.png": "/BigTimeJeff/static/media/MarvelButton.2b3796a6c60a27983b83.png",
+    "static/media/logo.svg": "/BigTimeJeff/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BigTimeJeff/index.html",
+    "main.112d6376.css.map": "/BigTimeJeff/static/css/main.112d6376.css.map",
+    "main.1e583f1c.js.map": "/BigTimeJeff/static/js/main.1e583f1c.js.map",
+    "488.e5f883fa.chunk.js.map": "/BigTimeJeff/static/js/488.e5f883fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.112d6376.css",
+    "static/js/main.1e583f1c.js"
+  ]
+}
