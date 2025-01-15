@@ -1,7 +1,7 @@
 {
   "name": "itsjeff",
   "version": "0.1.0",
-  "homepage": "https://gamedevc.github.io/BigTimeJeff",
+  "homepage": "https://gamedevc.github.io/BigTimeJeff/",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
