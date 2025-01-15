@@ -16,7 +16,7 @@ root.render(
   <BrowserRouter>
     <Routes>
       {/* Define the routes */}
-      <Route path="/" element={<App />} />
+      <Route path="/BigTimeJeff/" element={<App />} />
       <Route path="/bongos" element={<Bongos />} />
       <Route path="/characters" element={<Characters />} />
       <Route path="/bucky" element={<Bucky />} />
