@@ -1,7 +1,7 @@
 {
   "name": "itsjeff",
   "version": "0.1.0",
-  "homepage": "https://JeffTestingSite.github.io/react-gh-pages",
+  "homepage": "http://GameDevC.github.io/BigTimeJeff",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
@@ -12,9 +12,9 @@
     "web-vitals": "^4.2.4"
   },
   "scripts": {
+    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
